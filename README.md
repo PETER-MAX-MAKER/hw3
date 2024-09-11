@@ -4,4 +4,4 @@
 ![image](https://github.com/PETER-MAX-MAKER/hw4/blob/main/mo.jpg)
 
 
-[操作手冊](URL)
+[操作手冊]([URL](https://github.com/PETER-MAX-MAKER/hw4/blob/main/%E8%AA%AA%E6%98%8E%E6%89%8B%E5%86%8A/BLACK%20MYTH1.pdf))
